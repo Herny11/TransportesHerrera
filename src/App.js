@@ -8,8 +8,9 @@ function App() {
   return (
     <div className="App">
       <NavBar/>
-      <ItemListContainer greeting={"Transportes Herrera"}/>
-      <Input valorInput={"Hola"} title={"Nombre"}/>
+      <ItemListContainer greeting={"Transportes Herrera"}>
+        <Input valorInput={"Hola"} title={"Nombre"}/>
+      </ItemListContainer>
     </div>
   );
 }
