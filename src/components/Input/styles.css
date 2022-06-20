@@ -1,0 +1,10 @@
+.app-input{
+    padding: 10px;
+    text-align: center;
+    background-color: azure;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+.navbar{
+    background-color: cadetblue !important;
+}
