@@ -1,8 +1,12 @@
 import React from 'react'
 import {TiShoppingCart} from 'react-icons/ti';
 
-export const Cartwidget = () => {
+export const Cartwidget = ({count}) => {
   return (
-   <TiShoppingCart size={35}/>
+    <div>
+      <TiShoppingCart size={35}/>
+      <p>{count}</p>
+    </div>
+   
   )
 }
