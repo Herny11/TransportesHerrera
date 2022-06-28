@@ -1,0 +1,9 @@
+.productos{
+    width: 250px;
+    height: 200px;
+    display: flexbox;
+    border: 2px solid black;
+    align-items: center;
+    font-size: 20px;
+    margin: 0 auto;
+}

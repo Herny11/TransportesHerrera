@@ -1,7 +1,6 @@
 
 import './App.css';
 import {NavBar} from './components/NavBar'
-import {Input} from './components/Input'
 import { ItemListContainer } from './containers/ItemsListContainer';
 import {useState} from 'react'
 
@@ -20,7 +19,6 @@ function App() {
     <div className="App">
       <NavBar/>
       {containerVisible? <ItemListContainer greeting={"Transportes Herrera"}>
-        <Input valorInput={"Hola"} title={"Nombre"}/>
       </ItemListContainer>:
       null
       }

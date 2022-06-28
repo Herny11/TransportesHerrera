@@ -1,0 +1,34 @@
+[
+
+    {
+        "id": 1,
+        "titulo": "Servicio Taxi",
+        "precio": "Desde 5€",
+        "categoria": "Transporte",
+        "imagen": "https://www.auto-data.net/images/f23/Maxus-G10-facelift-2016.jpg"
+    },   
+    {
+        "id": 2,
+        "titulo": "Servicio Van",
+        "precio": "Desde 8€",
+        "categoria": "Transporte",
+        "imagen": "../../transportes_herrera/src/img/Maxus-G10.png"
+        
+    },
+    {
+        "id": 3,
+        "titulo": "Servicio Aeropuerto",
+        "precio": "Desde 15€",
+        "categoria": "Transporte",
+        "imagen": "https://www.chinapev.com/wp-content/uploads/2020/08/Maxus-G10-600x388.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Servicio Eventos Van",
+        "precio": "Desde 20€",
+        "categoria": "Transporte",
+        "imagen": "https://www.chinapev.com/wp-content/uploads/2020/08/Maxus-G10-600x388.jpg"
+    }
+
+]
+
